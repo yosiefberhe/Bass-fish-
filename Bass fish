@@ -1,0 +1,32 @@
+Html code 
+
+
+
+
+<!doctype html>
+
+<html>
+
+<head>
+
+<title> my Web pages </title>
+
+</head>
+
+<body>
+
+<h1> The Fish website </h1>
+
+<p>  Welcome to the Fish website. Everything you need to know about fish is in the is web site.   </p>
+
+<h2> This is a section on Bass fish </h2>
+
+<img src="fish.jpg" width="300" height="200">
+
+<p> Bass fish live in lakes.    </p>
+
+</body> 
+
+
+
+</html>
